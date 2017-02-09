@@ -22,7 +22,7 @@ Feel free to contact me by mail: guilherme.farto@gmail.com
 
 Usage:
 ```python
-fastq-quality-nucleotide-sequence.py [-h] -ns NUCLEOTIDE_SEQUENCE [-ab ASCII_BASE]
+python fastq-quality-nucleotide-sequence.py [-h] -ns NUCLEOTIDE_SEQUENCE [-ab ASCII_BASE]
 ```
 
 The arguments are:
