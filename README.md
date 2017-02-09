@@ -2,7 +2,7 @@
 
 Python project for 
 
-* (i) [FASTq Quality Nucleotide Sequence](#fastq-qns) - implementation of the Phred Quality Score concept for FASTq files (bioinformatics) ([usages](#all-usages))
+* (i) [FASTq Quality Nucleotide Sequence](#fastq-qns) - implementation of the Phred Quality Score concept based on FASTq files (bioinformatics) ([usages](#all-usages))
 
 > Text-based structure/format for storing both a biological sequence (e.g., usually nucleotide sequences) and their corresponding quality scores
 
