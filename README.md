@@ -52,7 +52,7 @@ The arguments are:
 ## Usages
 
 ### Phred Quality Score calculation for the nucleotide sequence:
-#### "!02ABA85334519ABA0!" with ASCII_33:
+#### !02ABA85334519ABA0! (with ASCII_33):
 
 ```python
 python fastq-quality-nucleotide-sequence.py -ns "!02ABA85334519ABA0!"
@@ -71,7 +71,7 @@ Output:
 ```
 
 ### Phred Quality Score calculation for the nucleotide sequence:
-#### "!''\*((((\*\*\*+))%%%++)(%%%%).1\*\*\*-+\*''))\*\*55CCF>>>>>>CCCCCCC65" with ASCII_33:
+#### !''\*((((\*\*\*+))%%%++)(%%%%).1\*\*\*-+\*''))\*\*55CCF>>>>>>CCCCCCC65 (with ASCII_33):
 
 ```python
 python fastq-quality-nucleotide-sequence.py -ns "!''*((((***+))%%%++)(%%%%).1***-+*''))**55CCF>>>>>>CCCCCCC65"
@@ -92,7 +92,7 @@ Output:
 ```
 
 ### Phred Quality Score calculation for the nucleotide sequence:
-#### "!02ABA85334519ABA0!" with ASCII_64:
+#### !02ABA85334519ABA0! (with ASCII_64):
 
 > The values in this example do not reflect a real scenario - it only exemplifies the use of ASCII 64 instead of ASCII 33
 
